@@ -2,26 +2,44 @@
 
 # SERGIO MARTINEZ HAMDOUN
 
-**Computer Vision & ML Engineer** @ Airbus DS
+**Computer Vision & ML Engineer** @ Airbus Defence and Space
 <br>
 Industrial Engineer (MII) • Automation & Robotics (MAR)
+
+<br>
+
+<a href="https://www.linkedin.com/in/sergio-martinez-hamdoun/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/sermarham">
+  <img src="https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white" />
+</a>
+
+<br><br>
 
 ---
 
 ### T E C H N I C A L &nbsp;&nbsp; S T A C K
 
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white" />
+**Artificial Intelligence & Computer Vision**
+<br>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=white" />
 
 <br>
+
+**Languages & Scientific Computing**
+<br>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/LaTeX-000000?style=flat-square&logo=latex&logoColor=white" />
 
+<br>
+
+**DevOps & Tools**
 <br>
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -30,6 +48,8 @@ Industrial Engineer (MII) • Automation & Robotics (MAR)
 
 <br><br>
 
+---
+
 ### A N A L Y T I C S
 
 <a href="https://github.com/sergiomh499">
@@ -37,12 +57,6 @@ Industrial Engineer (MII) • Automation & Robotics (MAR)
 </a>
 <a href="https://github.com/sergiomh499">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomh499&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=999" height="150" alt="langs" />
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/sergio-martinez-hamdoun/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
