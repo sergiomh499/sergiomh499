@@ -48,15 +48,3 @@ Industrial Engineer (MII) • Automation & Robotics (MAR)
 
 <br><br>
 
----
-
-### A N A L Y T I C S
-
-<a href="https://github.com/sergiomh499">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiomh499&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=999&icon_color=white&count_private=true&include_all_commits=true" height="150" alt="stats" />
-</a>
-<a href="https://github.com/sergiomh499">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomh499&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=999" height="150" alt="langs" />
-</a>
-
-</div>
